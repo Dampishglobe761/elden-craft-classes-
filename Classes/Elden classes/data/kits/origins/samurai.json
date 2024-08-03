@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"kits:samurai_kit"
+	],
+	"icon": "minecraft:netherite_helmet",
+	"order": 0,
+	"impact": 0,
+	"name": "Samurai",
+	"description": "He got like the sword my guy."
+}

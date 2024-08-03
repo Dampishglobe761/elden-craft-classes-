@@ -1,0 +1,9 @@
+{
+  "loading_priority": 10,
+  "powers": [
+        "kits:beastmaster_kit"
+  ],
+  "icon": "minecraft:bone",
+  "order": 13,
+  "impact": 0
+}

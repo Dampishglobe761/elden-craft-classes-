@@ -1,0 +1,10 @@
+{
+  "loading_priority": 10,
+  "powers": [
+        "origins-classes:potion_bonus",
+        "kits:cleric_kit"
+  ],
+  "icon": "minecraft:experience_bottle",
+  "order": 7,
+  "impact": 0
+}

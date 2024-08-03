@@ -1,0 +1,24 @@
+{
+  "type": "apoli:starting_equipment",
+  "stacks": [
+    {
+      "item": "epicfight:iron_dagger",
+      "amount": 2
+    },
+    {
+      "item": "soulslikeuniverse:successor_helmet"
+    },
+    {
+      "item": "soulslikeuniverse:successor_chestplate"
+    },
+    {
+      "item": "soulslikeuniverse:successor_leggings"
+    },
+    {
+      "item": "soulslikeuniverse:successor_boots"
+    },
+    {
+      "item": "soulslikeuniverse:presentchest"
+    }
+  ]
+}

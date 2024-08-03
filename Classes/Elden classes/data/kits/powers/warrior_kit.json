@@ -1,0 +1,26 @@
+{
+  "type": "apoli:starting_equipment",
+  "stacks": [
+    {
+      "item": "soulslikeuniverse:longsword"
+    },
+    {
+      "item": "soul_like_armors_reworked:roundshield"
+    },
+    {
+      "item": "soulslikeuniverse:ironknight_helmet"
+    },
+    {
+      "item": "soulslikeuniverse:ironknight_chestplate"
+    },
+    {
+      "item": "soulslikeuniverse:ironknight_leggings"
+    },
+    {
+      "item": "soulslikeuniverse:ironknight_boots"
+    },
+    {
+      "item": "soulslikeuniverse:presentchest"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "loading_priority": 10,
+  "powers": [
+        "origins-classes:sneaky",
+        "origins-classes:stealth",
+        "origins-classes:stealth_core",
+        "kits:rogue_kit"
+  ],
+  "icon": "minecraft:leather_helmet",
+  "order": 12,
+  "impact": 0
+}

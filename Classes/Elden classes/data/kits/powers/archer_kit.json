@@ -1,0 +1,27 @@
+{
+  "type": "apoli:starting_equipment",
+  "stacks": [
+    {
+      "item": "minecraft:bow"
+    },
+    {
+      "item": "minecraft:arrow",
+      "amount": 64
+    },
+    {
+      "item": "soulslikeuniverse:mercenary_helmet"
+    },
+    {
+      "item": "soulslikeuniverse:mercenary_chestplate"
+    },
+    {
+      "item": "soulslikeuniverse:mercenary_leggings"
+    },
+    {
+      "item": "soulslikeuniverse:mercenary_boots"
+    },
+    {
+      "item": "soulslikeuniverse:presentchest"
+    }
+  ]
+}

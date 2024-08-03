@@ -1,0 +1,11 @@
+{
+    "loading_priority": 10,
+    "powers": [
+        "kits:archer_kit"
+    ],
+    "icon": "minecraft:bow",
+    "order": 0,
+    "impact": 0,
+    "name": "Archer",
+ 	"description": "Insert description."
+}

@@ -1,0 +1,8 @@
+{
+  "type": "apoli:starting_equipment",
+  "stacks": [
+    {
+      "item": "minecraft:wooden_sword"
+    }
+  ]
+}

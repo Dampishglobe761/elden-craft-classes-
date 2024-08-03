@@ -1,0 +1,23 @@
+{
+  "type": "apoli:starting_equipment",
+  "stacks": [
+    {
+      "item": "born_in_chaos_v1:staffof_magic_arrows"
+    },
+    {
+      "item": "soulslikeuniverse:darkring_helmet"
+    },
+    {
+      "item": "soulslikeuniverse:darkring_chestplate"
+    },
+    {
+      "item": "soulslikeuniverse:darkring_leggings"
+    },
+    {
+      "item": "soulslikeuniverse:darkring_boots"
+    },
+    {
+      "item": "soulslikeuniverse:presentchest"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "apoli:starting_equipment",
+  "stacks": [
+    {
+      "item": "soul_like_armors_reworked:kata_sword"
+    },
+    {
+      "item": "soul_like_armors_reworked:roundshield"
+    },
+    {
+      "item": "soulslikeuniverse:ironsamurai_helmet"
+    },
+    {
+      "item":"soulslikeuniverse:ironsamurai_chestplate"
+    },
+    {
+      "item":"soulslikeuniverse:ironsamurai_leggings"
+    },
+    {
+      "item":"soulslikeuniverse:ironsamurai_boots"
+    },
+    {
+      "item":"soulslikeuniverse:presentchest"
+    }
+  ]
+}
